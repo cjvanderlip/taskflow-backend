@@ -4,4 +4,4 @@ flask-cors==4.0.1
 psycopg[binary]==3.2.3
 gunicorn==22.0.0
 rox
-pytest==8.2.0
+pytest==9.0.3
